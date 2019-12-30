@@ -610,9 +610,9 @@
             "gallery": [
               {
                 "tags": "Team Member Productivity",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2019-11-1-12-43-40-562497.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/rfk7nX0APYk",
                 "image": "@PROJECT_PATH@/assets/images/1.0.1-home-screen-collapsed-fab3x-960x1704.png",
                 "thumb": "@PROJECT_PATH@/assets/images/1.0.1-home-screen-collapsed-fab3x-960x1704-800x1420.png",
                 "alt": "",
@@ -623,15 +623,15 @@
               },
               {
                 "tags": "Sales & Prospect Enablement",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2019-11-1-12-50-41-116421.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/S_B_03xwiN8",
                 "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
                 "alt": "",
                 "title": "",
-                "customStyle1": "display-7",
-                "caption": "Engage",
+                "customStyle1": "display-5",
+                "caption": "GeM Tracker",
                 "active": false
               },
               {
@@ -645,20 +645,20 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Event",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Practitioner Engagement",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2019-11-1-12-53-30-751745.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/EKwD_SHKR3M",
                 "image": "@PROJECT_PATH@/assets/images/gallery03.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery03.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
+                "caption": "Burn Notification",
+                "active": true
               },
               {
                 "tags": "Team Member Productivity",
@@ -675,9 +675,9 @@
               },
               {
                 "tags": "Team Member Productivity",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2019-11-1-12-46-19-979391.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/Utl5gplTQ9A",
                 "image": "@PROJECT_PATH@/assets/images/gallery05.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery05.jpg",
                 "alt": "",
