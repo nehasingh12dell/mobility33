@@ -619,7 +619,7 @@
                 "title": "",
                 "customStyle1": "display-5",
                 "caption": "Engage",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Sales & Prospect Enablement",
@@ -636,16 +636,16 @@
               },
               {
                 "tags": "Team Member Productivity",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2019-11-1-12-37-36-370776.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/Dzqcx1Xhw8I",
                 "image": "@PROJECT_PATH@/assets/images/gallery02.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery02.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Event",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Practitioner Engagement",
