@@ -658,20 +658,20 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Burn Notification",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Team Member Productivity",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2019-11-1-13-14-42-560637.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/Qu8yuT3WR3M",
                 "image": "@PROJECT_PATH@/assets/images/gallery04.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery04.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Help",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Team Member Productivity",
@@ -688,9 +688,9 @@
               },
               {
                 "tags": "Executive Portfolio",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2019-11-1-13-10-6-377598.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/k1xawepMbgs",
                 "image": "@PROJECT_PATH@/assets/images/gallery06.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery06.jpg",
                 "alt": "",
