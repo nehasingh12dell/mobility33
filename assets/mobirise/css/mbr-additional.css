@@ -1223,3 +1223,49 @@ section.lazy-placeholder:after {
   color: #232323;
   text-align: center;
 }
+.cid-rM9NCDaxxZ {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #232323;
+}
+.cid-rM9NCDaxxZ a:link {
+  text-decoration: none;
+}
+.cid-rM9NCDaxxZ .icon-transition span {
+  color: #ffffff;
+  display: block;
+  height: 3em;
+  line-height: 3em;
+  border-radius: 50%;
+  border: 2px solid #ffffff;
+  width: 3em;
+  -webkit-transition: all 0.3s ease-out 0s;
+  transition: all 0.3s ease-out 0s;
+  font-size: 14px;
+}
+.cid-rM9NCDaxxZ .icon-transition span:hover {
+  background-color: #ffbc00;
+}
+.cid-rM9NCDaxxZ .inner-text {
+  line-height: 3em;
+}
+.cid-rM9NCDaxxZ .social-media {
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+.cid-rM9NCDaxxZ .social-media ul {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 8px;
+}
+.cid-rM9NCDaxxZ .social-media ul li {
+  padding: 4px;
+  display: inline-block;
+}
+.cid-rM9NCDaxxZ .content-text,
+.cid-rM9NCDaxxZ .inner-text {
+  color: #cccccc;
+}
